@@ -53,86 +53,86 @@ const data = {
   navMain: [
     {
       title: "Playground",
-      url: "#",
+      url: "/",
       icon: SquareTerminal,
       isActive: true,
       items: [
         {
           title: "History",
-          url: "#",
+          url: "/",
         },
         {
           title: "Starred",
-          url: "#",
+          url: "/",
         },
         {
           title: "Settings",
-          url: "#",
+          url: "/settings",
         },
       ],
     },
     {
       title: "Models",
-      url: "#",
+      url: "/",
       icon: Bot,
       items: [
         {
           title: "Genesis",
-          url: "#",
+          url: "/",
         },
         {
           title: "Explorer",
-          url: "#",
+          url: "/",
         },
         {
           title: "Quantum",
-          url: "#",
+          url: "/",
         },
       ],
     },
     {
       title: "Documentation",
-      url: "#",
+      url: "/",
       icon: BookOpen,
       items: [
         {
           title: "Introduction",
-          url: "#",
+          url: "/",
         },
         {
           title: "Get Started",
-          url: "#",
+          url: "/",
         },
         {
           title: "Tutorials",
-          url: "#",
+          url: "/",
         },
         {
           title: "Changelog",
-          url: "#",
+          url: "/",
         },
       ],
     },
     {
       title: "Settings",
-      url: "#",
+      url: "/settings",
       icon: Settings2,
       items: [
         {
           title: "General",
-          url: "#",
+          url: "/settings",
         },
         {
           title: "Team",
-          url: "#",
+          url: "/settings",
         },
         {
           title: "Billing",
-          url: "#",
+          url: "/settings",
         },
         {
           title: "Limits",
-          url: "#",
+          url: "/settings",
         },
       ],
     },
